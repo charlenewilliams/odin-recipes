@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first assignment. It is a recipe website using HTML. This project will be using my newly acquired HTML knowledge. This project will be displaying my knowledge of HTML elements, attributes, links and images. 
